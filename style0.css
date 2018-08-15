@@ -1,0 +1,38 @@
+@font-face
+{
+  font-family: MyFont;
+  src: url(봄결.ttf);
+
+}
+
+
+body
+{
+  background-color: #fff;
+
+
+}
+.container
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  padding: 12px;
+  background-image: url(인서스텔라4.png);
+  border: 2px solid white;
+  box-shadow: 0 0 5px 3px #999;
+  font-family: MyFont;
+  font
+  src: url(봄결.ttf);
+
+
+
+}
+.info
+{
+  font-family: MyFont;
+  font-size: 140px;
+
+}
